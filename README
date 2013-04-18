@@ -1,10 +1,10 @@
-# grunner
+# Gray Runner
 
-FIXME: write description
+Gray Runner is a side-scrolling runner game like Canabalt made with ClojureScript
 
 ## Usage
 
-
+http://grayrunner.herokuapp.com
 
 OR
 
@@ -13,6 +13,6 @@ foreman start
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Markku Rontu
 
 Distributed under the Eclipse Public License, the same as Clojure.
